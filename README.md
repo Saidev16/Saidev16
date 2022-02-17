@@ -2,7 +2,7 @@
 
 ## About me
 
-- Junior Full stack web developer adept at building web applications from front to back. Passionate about learning new technologies, bringing ideas to life with dedicated teams to build efficient and robust applications suited to user's needs
+- Full stack web developer adept at building web applications from front to back. Passionate about learning new technologies, bringing ideas to life with dedicated teams to build efficient and robust applications suited to user's needs
 
 
 
